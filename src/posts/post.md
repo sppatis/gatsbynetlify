@@ -1,11 +1,11 @@
 ---
 title: Welcome to the new blog
 date: 2020-07-20
-image: /statis/assets/mechanic001.jpeg
+image: /static/assets/mechanic001.jpeg
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptates explicabo aspernatur excepturi delectus, quidem placeat quisquam harum ducimus laudantium fugit. Architecto iste dolores consequuntur mollitia provident obcaecati necessitatibus laboriosam?
 
-![Socket Set](/statis/assets/mechanic002.jpg "Working with tools")
+![Socket Set](/static/assets/mechanic002.jpg "Working with tools")
 
 * This
 * Is

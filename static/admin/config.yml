@@ -2,7 +2,7 @@ backend:
   name: github
   repo: sppatis/gatsbynetlify
 
-media_folder: statis/assets
+media_folder: static/assets
 
 collections:
   - name: post
